@@ -32,7 +32,7 @@
 }
 /* Dark mode styles */
 .dark-mode {
-  background-color: black;
+  background-color:#111;
 }
 .dark-mode h1, .dark-mode a ,.dark-mode p{
   color: white;
