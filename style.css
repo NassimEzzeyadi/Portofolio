@@ -2,13 +2,25 @@
 html{
   height: 100%;
 }
-
+*{
+  text-decoration: none;
+}
 body{
     padding-top: 20px;
     height: 100%;
     padding: 0;
     margin: 0;
     font-family: 'Roboto Slab', serif;
+}
+.button a{
+  color: black;
+}
+.cv{
+  width: 350px;
+  display: flex;
+  justify-content: space-around;
+  margin-left:auto;
+  margin-right: auto;
 }
 
 .cards{
