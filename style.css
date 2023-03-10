@@ -10,6 +10,7 @@ body{
     margin: 0;
     font-family: 'Roboto Slab', serif;
 }
+
 .cv :hover{
   background-color: white;
   color: #111;
@@ -30,10 +31,16 @@ body{
   padding: 20px;
   border-radius: 20px;
 }
+.footerwsh{
+  background-color: #111;
+  color: white;
+}
+
 .cards{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 20px;
 }
 .bienvenue,h3{
   display: flex;
@@ -81,6 +88,14 @@ body{
  .card2 li{
   font-size: 15px;
   
+ }
+ .containerveille{
+  margin-left: auto;
+  margin-right: auto;
+  width: 70em;
+  text-align: center;
+  justify-content: center;
+  margin-top: 125px;
  }
  .containerecole{
   margin-left: auto;
